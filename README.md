@@ -7,8 +7,7 @@ This project focuses on **analyzing e-commerce data** and creating an interactiv
 ## 🚀 Project Overview
 
 The project involves:  
-- **Data integration** and **cleaning** for accurate analysis.  
-- **Exploratory Data Analysis (EDA)** to identify key trends.  
+- **Data integration** and **cleaning** for accurate analysis. 
 - **Visualizing KPIs** in Power BI to track sales, profits, and product performance.
 
 ---
