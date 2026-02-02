@@ -14,8 +14,7 @@ The project involves:
 
 ## 🛠️ Technologies Used
 
-- **Power BI**: For data visualization and dashboard creation  
-- **Python / SQL (optional)**: For data preprocessing  
+- **Power BI**: For data Cleaning, visualization and dashboard creation   
 - **Git/GitHub**: Version control  
 
 ---
